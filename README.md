@@ -1,13 +1,8 @@
 # hi
 <div align="center">
   <details>
-    <summary><b>links</b></summary>
-    <br>
-
-    <a href="https://atabook.org">
-      <img src="https://example.com" alt="Hidden image" width="350">
-    </a>
-    <p><em>Your caption goes here!</em></p>
+    <summary><b>read</b></summary
+    <p>Hi
   </details>
 </div>
 
